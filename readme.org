@@ -2,3 +2,6 @@
 Desafios do servidor da CyberZ.
 
 São divididos por assuntos. Cada assunto tem sua própria enumeração e desafios.
+
+** Rust
+- [[https://github.com/cyberzsk/challenges/tree/rust-001-read-file][Desafio 001 - Ler arquivos]]
