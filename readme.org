@@ -1,0 +1,4 @@
+* Desafios
+Desafios do servidor da CyberZ.
+
+São divididos por assuntos. Cada assunto tem sua própria enumeração e desafios.
