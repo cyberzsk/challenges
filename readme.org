@@ -1,7 +1,7 @@
 * Desafios
 Desafios do servidor da CyberZ.
 
-São divididos por assuntos. Cada assunto tem sua própria enumeração e desafios.
+Cada branch recebe os updates de seus responsáveis e é organizada conforme o mesmo. Essa é a branch principal usada para explicar os projetos e receber atualizações.
 
-** Rust
-- [[https://github.com/cyberzsk/challenges/tree/rust-001-read-file][Desafio 001 - Ler arquivos]]
+* Desafios concluídos
+(WIP - waiting...)
